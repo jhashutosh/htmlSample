@@ -1,0 +1,16 @@
+
+body
+{
+    color : yellow;
+    background : lightslategray;
+}
+th, td {
+    padding: 20px;
+    text-align: left;
+}
+tr:hover {background-color: lightseagreen !important;}
+
+table, th, td {
+   border: 1px solid white;
+ 
+}
